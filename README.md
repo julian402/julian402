@@ -11,6 +11,7 @@ I’m a Software Developer specialized in backend, passionate about creating rob
 ## 🚀 About Me
 
 - 🌟 **Frontend Developer:** Currently learning and working with technologies like HTML, CSS, JavaScript, Astro, Tailwind CSS, Angular.
+- 🔧 **Backend Developer:** Currently working with technologies like Node.js, Express.js, MongoDB (MEAN stack) and with basic experience in Python using Flask.
 - 🌍 **Advanced English:** With over 1 year of experience as a bilingual customer service agent
 - 📍 **Location:** Bogotá, Colombia.
 
