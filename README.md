@@ -3,17 +3,6 @@
 
 **julian402/julian402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 
 # Hi, I'm Julian Corredor! 👋
 
@@ -30,20 +19,18 @@ I’m a Software Developer specialized in backend, passionate about creating rob
 
 ## 🌐 Find Me On
 
-- 🌟 [My Portfolio]()
-- 💼 [LinkedIn]()
-- 🖤 [GitHub]()
+- 🌟 [My Portfolio](https://portafolio-nine-brown-41.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/julian-m-corredor-g-fullstackdev/)
+- 🖤 [GitHub](https://github.com/julian402)
 
 
 ## 🛠️ Technologies and Tools
 
 - 🌐 **Frontend:** HTML, CSS, JavaScript, Astro, Angular, CSS
-- 🌐 **Backend:** Node
+- 🌐 **Backend:** Node, Express
 - ⚙️ **Database:** MySQL, MongoDb
 - ⚙️ **Tools:** Git, GitHub, VSCode, npm
 
 ---
-
-## 🌟 Learn More About Me
 
 
