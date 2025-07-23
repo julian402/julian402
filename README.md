@@ -26,7 +26,7 @@ Veterinaria virtual desarrollada con PHP (backend), React/Expo Go (móvil) y MyS
 ---
 
 💻 **Tecnologías y herramientas:**  
-JavaScript, Angular, Node.js, Express, HTML, CSS, MongoDB, SQL, PHP, Python, Flask, React, Jira, Supabase, Firebase, Insomnia, Git.
+JavaScript, Angular, Node.js, Express, HTML, CSS, MongoDB, SQL, PHP, Python, Flask, React, Jira, Supabase, Firebase, Postman, Git.
 
 📈 **Habilidades blandas:**  
 Pensamiento crítico, comunicación efectiva, proactividad, adaptabilidad, trabajo en equipo.
