@@ -1,37 +1,45 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Julian
 
-
-**julian402/julian402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-# Hi, I'm Julian Corredor! 👋
-
-I’m a Software Developer specialized in backend, passionate about creating robust, scalable solutions. I combine strong architecture with a focus on optimization and security, delivering reliable digital experiences for both users and businesses.
-
-## 🚀 About Me
-
-- 🌟 **Frontend Developer:** Currently learning and working with technologies like HTML, CSS, JavaScript, Astro, Tailwind CSS, Angular.
-- 🔧 **Backend Developer:** Currently working with technologies like Node.js, Express.js, MongoDB (MEAN stack) and with basic experience in Python using Flask.
-- 🌍 **Advanced English:** With over 1 year of experience as a bilingual customer service agent
-- 📍 **Location:** Bogotá, Colombia.
-
-## 🌟 Featured Projects
-
-
-## 🌐 Find Me On
-
-- 🌟 [My Portfolio](https://portafolio-nine-brown-41.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/julian-m-corredor-g-fullstackdev/)
-- 🖤 [GitHub](https://github.com/julian402)
-
-
-## 🛠️ Technologies and Tools
-
-- 🌐 **Frontend:** HTML, CSS, JavaScript, Astro, Angular, CSS
-- 🌐 **Backend:** Node, Express
-- ⚙️ **Database:** MySQL, MongoDb
-- ⚙️ **Tools:** Git, GitHub, VSCode, npm
+Soy tecnólogo en Desarrollo de Software y estudiante activo de Ingeniería de Software en Bogotá, Colombia. Apasionado por la creación de soluciones innovadoras, con experiencia en desarrollo web full stack, soporte técnico, QA y despliegue en la nube.
 
 ---
 
+⚡️ **Experiencia profesional destacada:**
 
+**Frontend Developer / QA / Soporte Técnico @ Propulsa LLC**  
+- Implementación de mejoras visuales y funcionales en la plataforma Sociants.  
+- Soporte técnico a usuarios y escalamiento de bugs.  
+- Mantenimiento del centro de ayuda, pruebas manuales y automatizadas.  
+- Documentación mensual y participación en capacitaciones.
+
+**Full Stack Developer @ Bogotá Institute of Technology (BIT)**  
+- Desarrollé un e-commerce con Angular (frontend) y Node.js + Express (backend).  
+- Integración de MongoDB Atlas, autenticación segura y manejo de archivos con Supabase.  
+- Pruebas API con Insomnia, despliegue en la nube.  
+- Diseño responsivo y modular con HTML, CSS y JS.
+
+**Proyecto Académico - DigiPets 🐾**  
+Veterinaria virtual desarrollada con PHP (backend), React/Expo Go (móvil) y MySQL/Firebase.  
+- Despliegue: [www.digipets.com.co](http://www.digipets.com.co)  
+- Gestión con Jira + Scrum.
+
+---
+
+💻 **Tecnologías y herramientas:**  
+JavaScript, Angular, Node.js, Express, HTML, CSS, MongoDB, SQL, PHP, Python, Flask, React, Jira, Supabase, Firebase, Insomnia, Git.
+
+📈 **Habilidades blandas:**  
+Pensamiento crítico, comunicación efectiva, proactividad, adaptabilidad, trabajo en equipo.
+
+🌱 **Actualmente aprendiendo:**  
+Pruebas automatizadas, DevOps básico, integración de IA en aplicaciones web.
+
+📫 **Contáctame:**  
+[LinkedIn](https://www.linkedin.com/in/julian-mateo-corredor-granados-84840a205)  
+📧 Correo: Corredor.jul@hotmail.com
+
+---
+**Portafolio:**
+https://portafolio-nine-brown-41.vercel.app
+
+🚀 ¡Gracias por visitar mi perfil!
