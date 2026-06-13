@@ -6,13 +6,13 @@ Soy Ingeniero en Desarrollo de Software y estudiante activo de Ingeniería de So
 
 ⚡️ **Experiencia profesional destacada:**
 
-**Frontend Developer / QA / Soporte Técnico @ Propulsa LLC**  
+**Full Stack Developer / QA / Soporte Técnico 
 - Implementación de mejoras visuales y funcionales en la plataforma Sociants.  
 - Soporte técnico a usuarios y escalamiento de bugs.  
 - Mantenimiento del centro de ayuda, pruebas manuales y automatizadas.  
 - Documentación mensual y participación en capacitaciones.
 
-**Full Stack Developer @ Bogotá Institute of Technology (BIT)**  
+**Full Stack Developer 
 - Desarrollé un e-commerce con Angular (frontend) y Node.js + Express (backend).  
 - Integración de MongoDB Atlas, autenticación segura y manejo de archivos con Supabase.  
 - Pruebas API con Insomnia, despliegue en la nube.  
