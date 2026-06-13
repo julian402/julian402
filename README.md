@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Julian
 
-Soy tecnólogo en Desarrollo de Software y estudiante activo de Ingeniería de Software en Bogotá, Colombia. Apasionado por la creación de soluciones innovadoras, con experiencia en desarrollo web full stack, soporte técnico, QA y despliegue en la nube.
+Soy Ingeniero en Desarrollo de Software y estudiante activo de Ingeniería de Software en Bogotá, Colombia. Apasionado por la creación de soluciones innovadoras, con experiencia en desarrollo web full stack, soporte técnico, QA y despliegue en la nube.
 
 ---
 
